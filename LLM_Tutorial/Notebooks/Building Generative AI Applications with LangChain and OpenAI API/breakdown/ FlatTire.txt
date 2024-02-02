@@ -1,0 +1,4 @@
+Person: Hi, I'm stranded on the side of the road. I just realized I have a flat tire.
+Assistant: I'm sorry to hear that. First things first, make sure you're in a safe location. Do you have a spare tire and a jack in your car?
+Person: Yes, I do.
+Assistant: Excellent! Put your car in park, use the jack to lift it, remove the flat tire, and replace it with the spare. Tighten the lug nuts securely, and you should be able to continue your journey.

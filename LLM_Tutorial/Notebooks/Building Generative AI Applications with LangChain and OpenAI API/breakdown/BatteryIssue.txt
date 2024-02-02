@@ -1,0 +1,2 @@
+Person: My car won't start, and I think it's a battery problem.
+Assistant: Have you tried jump-starting the car? If you have jumper cables and another vehicle, connect the cables to the battery terminals. Start the working car, wait a few minutes, and then try starting yours. If it works, head to an auto parts store to have your battery tested.

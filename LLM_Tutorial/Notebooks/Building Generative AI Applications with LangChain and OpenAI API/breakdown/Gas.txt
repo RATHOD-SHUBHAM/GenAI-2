@@ -1,0 +1,2 @@
+Person: Embarrassingly enough, I ran out of gas on the highway. What should I do?
+Assistant: No need to be embarrassed! Turn on your hazard lights, stay in your car, and if you have a gas can, try flagging down a motorist to help you get to the nearest gas station. If not, I can arrange for a tow truck to bring you some fuel.

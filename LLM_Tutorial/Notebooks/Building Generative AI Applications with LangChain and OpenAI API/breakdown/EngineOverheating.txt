@@ -1,0 +1,2 @@
+Person: My car's temperature gauge is in the red, and there's steam coming from the engine. What should I do?
+Assistant: It sounds like your engine is overheating. Turn off the engine immediately to prevent damage. Let it cool down for at least 15 minutes. Check the coolant level and add coolant if needed. If the problem persists, you might need a tow to a mechanic.

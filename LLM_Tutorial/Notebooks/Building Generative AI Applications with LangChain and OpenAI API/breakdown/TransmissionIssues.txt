@@ -1,0 +1,2 @@
+Person: My car is having trouble shifting gears. It's an automatic transmission.
+Assistant: Transmission issues can be complex. Check your transmission fluid level. If it's low, top it up. If the problem persists, you may need to consult a mechanic as it could be a more serious transmission problem.

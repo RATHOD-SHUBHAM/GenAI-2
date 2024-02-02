@@ -1,0 +1,4 @@
+Person: My brakes are making a high-pitched squeaking sound whenever I press them.
+Assistant: Squeaking brakes can be a sign of worn brake pads. Have you noticed any reduction in braking performance?
+Person: Yes, a bit.
+Assistant: It's likely time to replace your brake pads. It's a relatively straightforward job, but if you're not comfortable, consider having a professional do it. Driving with worn brakes can be dangerous.

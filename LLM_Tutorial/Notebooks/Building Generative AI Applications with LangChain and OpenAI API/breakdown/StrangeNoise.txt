@@ -1,0 +1,4 @@
+Person: There's this strange noise coming from my engine, and I'm not sure what it is.
+Assistant: Diagnosing noises can be tricky. Is it a constant noise, or does it occur when you accelerate or brake?
+Person: It happens when I accelerate.
+Assistant: It could be an issue with the exhaust or a loose belt. I recommend having it checked by a mechanic as soon as possible to avoid any further damage.

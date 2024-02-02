@@ -1,0 +1,2 @@
+Person: The check engine light just came on, and I'm not sure what to do.
+Assistant: The check engine light can indicate various issues. First, check if your gas cap is tight. If it is, head to an auto parts store. They can often scan your car's computer for trouble codes, which will help identify the problem.

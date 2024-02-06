@@ -3,6 +3,10 @@ LLM
 ---
 ### Note: [GenAI-1](https://github.com/RATHOD-SHUBHAM/GenAI-1) repository can be found here.
 
+
+This repository is dedicated to exploring the capabilities and potential of Large Language Models (LLMs) through various projects and code snippets. Here I explore a range of LLM-based projects tackling different challenges and showcasing distinct use cases. Whether it's text generation, translation, question answering, or something entirely new, that ignites my curiosity.
+
+
 ---
 
 # Projects

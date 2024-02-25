@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "topic"
+    ],
+    "input_types": {},
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n    You are a experienced and creative blog writer.\n    You will be provided with a topic and you need to provide an interesting blog title for that particular topic.\n    The title should create curiosity among the readers.\n    Return the title only\n    \n    topic : {topic}\n    title : \n",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}

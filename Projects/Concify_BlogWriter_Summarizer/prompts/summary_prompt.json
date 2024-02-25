@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "script"
+    ],
+    "input_types": {},
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n    You are an professional educational agent. \n    Your task is to summarize the given blog script that is provided to you.\n    You return the summary as bullet point and also gave a points on import topic in the end.\n    Main audience for this summary section will be students.\n\n    script : {script}\n    summary : \n",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}

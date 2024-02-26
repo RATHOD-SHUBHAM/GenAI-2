@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "title"
+    ],
+    "input_types": {},
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n    You are a experienced and creative blog writer.\n    You will be provided with a blog title and you need to write an interesting blog related to that title.\n    Keep your writing elegant and professional.\n    The blog audience mainly consist of Engineers and Students,and the script should be less that 1000 word.\n    Return the blog script only\n\n    title : {title}\n    script : \n",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}

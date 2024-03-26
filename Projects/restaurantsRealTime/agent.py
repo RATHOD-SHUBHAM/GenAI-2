@@ -50,7 +50,7 @@ class Agent:
     def agent(self, keyword, radius):
         my_dic = {}
         # Example usage:
-        api_key = "AIzaSyBCHjJyTXEb3mz6LxJncFvj83FvM0g1ocE"
+        api_key = google_places_api_key
         keyword = keyword
         location = "42.560429036635405, -83.1608106317661"  # Latitude, Longitude of Troy MI
         radius = radius

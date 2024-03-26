@@ -45,7 +45,7 @@ class Conversational:
           AI:
         '''
 
-        llm = ChatOpenAI(temperature=0.0, openai_api_key="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")
+        llm = ChatOpenAI(temperature=0.0, openai_api_key=open_ai_key)
 
         prompt = PromptTemplate(
             input_variables=["history", "input"],

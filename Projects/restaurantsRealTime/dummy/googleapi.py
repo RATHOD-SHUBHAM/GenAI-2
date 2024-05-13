@@ -46,7 +46,7 @@ class GoogleAPI:
     def googleapi(self):
         my_dic = {}
         query = "Indian restaurants"
-        api_key = "AIzaSyBCHjJyTXEb3mz6LxJncFvj83FvM0g1ocE"
+        api_key = "Your API Key"
         query = query
         location = "42.560429036635405, -83.1608106317661"  # Latitude, Longitude of Troy MI
         radius = 5000  # Search within 5000 meters

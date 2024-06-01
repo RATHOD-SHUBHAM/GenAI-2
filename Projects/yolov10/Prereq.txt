@@ -1,0 +1,24 @@
+
+
+###################################
+
+1] Yolov10 Repository
+
+1. git clone yolov10 repo in {HOME} directory.
+2. cd yolov10
+3. pip install .
+
+###################################
+
+2] Run the training notebook.
+
+>> cd {HOME}/Notebook
+>> Run v10_training.py
+
+Save the weights file
+
+###################################
+
+3] Download the SAM weights in {HOME} directory.
+
+###################################

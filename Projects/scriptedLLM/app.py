@@ -14,9 +14,9 @@ warnings.filterwarnings("ignore")
 class Solution:
     def __init__(self):
         os.environ["OPENAI_API_TYPE"] = "azure_ad"
-        os.environ["AZURE_OPENAI_ENDPOINT"] = "https://mobility-sage-openai-services.openai.azure.com/"
+        os.environ["AZURE_OPENAI_ENDPOINT"] = ""
         os.environ["AZURE_OPENAI_API_VERSION"] = "2024-05-01-preview"
-        os.environ["AZURE_OPENAI_API_KEY"] = "9bbf92a17be24c66881eaa5a1c6aa77d"
+        os.environ["AZURE_OPENAI_API_KEY"] = ""
         os.environ["AZURE_OPENAI_GPT4O_MODEL_NAME"] = "gpt-4o"
 
         self.llm = AzureChatOpenAI(
